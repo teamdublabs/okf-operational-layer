@@ -2,7 +2,7 @@
 
 *The hard part of an AI knowledge base isn't writing it down — it's keeping it true.*
 
-*by [Your Name] — [your site / contact]*
+*by Team Dub Labs — [teamdub.com](https://teamdub.com)*
 
 ---
 
@@ -89,6 +89,6 @@ OKF gave organizational knowledge a standard, portable body. The interesting wor
 
 ### About
 
-*[Your Name] builds the automation layer that keeps OKF knowledge bases alive — capture, classification, cross-linking, synthesis, and semantic maintenance, running unattended. [Reach out / your site] if you're adopting OKF and want a system, not a snapshot.*
+**Team Dub Labs** builds the automation layer that keeps OKF knowledge bases alive — capture, classification, cross-linking, synthesis, and semantic maintenance, running unattended. Adopting OKF and want a system, not a snapshot? Get in touch: [contact@teamdub.com](mailto:contact@teamdub.com) · [teamdub.com](https://teamdub.com)
 
-*This article is released under [CC BY 4.0]. Discussion and issues welcome.*
+*This article is released under [CC BY 4.0](LICENSE). Discussion and issues welcome.*
