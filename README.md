@@ -38,7 +38,7 @@ A format describes knowledge at rest. It says nothing about the lifecycle that p
 
 ## The operational layer, primitive by primitive
 
-You don't need to see my code to grasp the shape of the problem. Here are the primitives a *living* OKF base needs — the map, not the recipe.
+You don't need to see our code to grasp the shape of the problem. Here are the primitives a *living* OKF base needs — the map, not the recipe.
 
 **1. Capture.** If adding knowledge takes effort, it won't happen. You need a zero-friction drop point — a URL, a voice memo, a pasted thread — that the system, not the human, turns into a proper concept file. The moment capture becomes a chore, the base goes stale at the source.
 
@@ -72,7 +72,7 @@ The format is necessary. It's nowhere near sufficient.
 
 None of these primitives are mine, and pretending otherwise would be both dishonest and pointless. Karpathy articulated the LLM-wiki concept. A community of implementers worked out the conventions — index files, append-only logs, source/concept separation, citation discipline, review gates — months before any of it carried a Google logo. OKF then did the real work: turning those conventions into a portable, vendor-neutral contract.
 
-My claim is narrower. I've been *running* this — the full operational layer, scheduled and unattended, on a real knowledge base — since before the standard existed. Building the format is a weekend. Building the metabolism that keeps it true, and trusting it enough to let it rewrite your knowledge while you sleep, takes real engineering and real mileage. That's the part most OKF adoption stories quietly skip, and the part that decides whether your agents are working from the truth.
+Our claim is narrower. We've been *running* this — the full operational layer, scheduled and unattended, on a real knowledge base — since before the standard existed. Building the format is a weekend. Building the metabolism that keeps it true, and trusting it enough to let it rewrite your knowledge while you sleep, takes real engineering and real mileage. That's the part most OKF adoption stories quietly skip, and the part that decides whether your agents are working from the truth.
 
 ## The takeaway
 
