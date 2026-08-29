@@ -89,6 +89,6 @@ OKF gave organizational knowledge a standard, portable body. The work worth doin
 
 ### About
 
-**Team Dub Labs** builds the automation layer that keeps OKF knowledge bases alive — capture, classification, cross-linking, synthesis, and semantic maintenance, running unattended. Adopting OKF and want a system, not a snapshot? Get in touch: [contact@teamdub.com](mailto:contact@teamdub.com) · [teamdub.com](https://teamdub.com)
+**Team Dub Labs** builds the automation layer that keeps OKF knowledge bases alive — capture, classification, cross-linking, synthesis, and semantic maintenance, running unattended. Adopting OKF and want a system, not a snapshot? Get in touch: [contact@teamdublabs.com](mailto:contact@teamdublabs.com) · [teamdub.com](https://teamdub.com)
 
 *This article is released under [CC BY 4.0](LICENSE). Discussion and issues welcome.*
